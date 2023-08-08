@@ -1,4 +1,4 @@
-# Predicting-CAM
+# Predicting CAM
 Code notebooks and resources for a manuscript on prediction of Crassulacean acid metabolism (CAM) from anatomical data and the evolution of CAM and photosynthetic anatomy. The resources in this repository are meant to facilitate the reproduction of the results of our manuscript: **Title TBD**
 
 ## Abstract
