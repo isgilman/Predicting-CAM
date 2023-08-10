@@ -1,0 +1,139 @@
+MajorLineage,Genus,Species,LT (mm),LT (um),Tissue,Reference,Taxon,dC13,Pathway
+Apocynaceae,Dischidia,imbricata,1.80,1800.00,leaf,Earnshaw et al. (1987),Dischidia imbricata,-15.59,CAM
+Iridaceae,Libertia,pulchella,0.20,200.00,leaf,Earnshaw et al. (1987),Libertia pulchella,-30.32,C3
+Orchidaceae,Agrostophyllum,majus,0.28,280.00,leaf,Earnshaw et al. (1987),Agrostophyllum majus,-31.11,C3
+Orchidaceae,Agrostophyllum,sp.,0.25,250.00,leaf,Earnshaw et al. (1987),Agrostophyllum sp.,-31.76,C3
+Orchidaceae,Bulbophyllum,barbatum,1.15,1150.00,leaf,Earnshaw et al. (1987),Bulbophyllum barbatum,-26.18,C3+CAM
+Orchidaceae,Bulbophyllum,barbatum,1.15,1150.00,leaf,Earnshaw et al. (1987),Bulbophyllum barbatum,-29.72,C3+CAM
+Orchidaceae,Bulbophyllum,blumei,0.70,700.00,leaf,Earnshaw et al. (1987),Bulbophyllum maxillare,-24.30,C3+CAM
+Orchidaceae,Bulbophyllum,macgregorii,1.12,1120.00,leaf,Earnshaw et al. (1987),Bulbophyllum chloranthum,-23.26,C3+CAM
+Orchidaceae,Bulbophyllum,sessile,1.38,1380.00,leaf,Earnshaw et al. (1987),Bulbophyllum clandestinum,-12.25,CAM
+Orchidaceae,Bulbophyllum,sp. 1,2.18,2180.00,leaf,Earnshaw et al. (1987),Bulbophyllum sp. 1,-13.90,CAM
+Orchidaceae,Bulbophyllum,sp. 10,0.70,700.00,leaf,Earnshaw et al. (1987),Bulbophyllum sp. 10,-31.02,C3+CAM
+Orchidaceae,Bulbophyllum,sp. 11,1.15,1150.00,leaf,Earnshaw et al. (1987),Bulbophyllum sp. 11,-28.84,C3+CAM
+Orchidaceae,Bulbophyllum,sp. 12,0.50,500.00,leaf,Earnshaw et al. (1987),Bulbophyllum sp. 12,-32.26,C3+CAM
+Orchidaceae,Bulbophyllum,sp. 15,0.60,600.00,leaf,Earnshaw et al. (1987),Bulbophyllum sp. 15,-28.23,C3+CAM
+Orchidaceae,Bulbophyllum,sp. 2,1.32,1320.00,leaf,Earnshaw et al. (1987),Bulbophyllum sp. 2,-13.05,CAM
+Orchidaceae,Bulbophyllum,sp. 3,1.28,1280,leaf,Earnshaw et al. (1987),Bulbophyllum sp. 3,-12.21,CAM
+Orchidaceae,Bulbophyllum,sp. 4,0.45,450.00,leaf,Earnshaw et al. (1987),Bulbophyllum sp. 4,-34.01,C3+CAM
+Orchidaceae,Bulbophyllum,sp. 5,0.35,350.00,leaf,Earnshaw et al. (1987),Bulbophyllum sp. 5,-31.20,C3+CAM
+Orchidaceae,Bulbophyllum,sp. 6,0.57,570.00,leaf,Earnshaw et al. (1987),Bulbophyllum sp. 6,-32.60,C3+CAM
+Orchidaceae,Bulbophyllum,sp. 7,1.18,1180.00,leaf,Earnshaw et al. (1987),Bulbophyllum sp. 7,-28.01,C3+CAM
+Orchidaceae,Bulbophyllum,sp. 8,0.35,350.00,leaf,Earnshaw et al. (1987),Bulbophyllum sp. 8,-31.82,C3+CAM
+Orchidaceae,Bulbophyllum,sp. 9,0.35,350.00,leaf,Earnshaw et al. (1987),Bulbophyllum sp. 9,-31.50,C3+CAM
+Orchidaceae,Calanthe,flava,0.35,350.00,leaf,Earnshaw et al. (1987),Calanthe flava,-26.38,C3
+Orchidaceae,Calanthe,sp. 1,0.35,350.00,leaf,Earnshaw et al. (1987),Calanthe sp. 1,-32.60,C3
+Orchidaceae,Ceratostylis,sp. 1,2.75,2750.00,leaf,Earnshaw et al. (1987),Ceratostylis sp. 1,-24.45,C3
+Orchidaceae,Ceratostylis,sp. 10,1.10,1100.00,leaf,Earnshaw et al. (1987),Ceratostylis sp. 10,-29.21,C3
+Orchidaceae,Ceratostylis,sp. 11,2.09,2090.00,leaf,Earnshaw et al. (1987),Ceratostylis sp. 11,-31.08,C3
+Orchidaceae,Ceratostylis,sp. 12,2.10,2100.00,leaf,Earnshaw et al. (1987),Ceratostylis sp. 12,-24.25,C3
+Orchidaceae,Ceratostylis,sp. 13,1.20,1200.00,leaf,Earnshaw et al. (1987),Ceratostylis sp. 13,-27.07,C3
+Orchidaceae,Ceratostylis,sp. 2,2.35,2350.00,leaf,Earnshaw et al. (1987),Ceratostylis sp. 2,-24.94,C3
+Orchidaceae,Ceratostylis,sp. 3,1.75,1750.00,leaf,Earnshaw et al. (1987),Ceratostylis sp. 3,-26.27,C3
+Orchidaceae,Ceratostylis,sp. 4,1.45,1450.00,leaf,Earnshaw et al. (1987),Ceratostylis sp. 4,-26.06,C3
+Orchidaceae,Ceratostylis,sp. 5,1.65,1650.00,leaf,Earnshaw et al. (1987),Ceratostylis sp. 5,-29.24,C3
+Orchidaceae,Ceratostylis,sp. 6,1.85,1850,leaf,Earnshaw et al. (1987),Ceratostylis sp. 6,-31.13,C3
+Orchidaceae,Ceratostylis,sp. 7,1.85,1850.00,leaf,Earnshaw et al. (1987),Ceratostylis sp. 7,-24.78,C3
+Orchidaceae,Ceratostylis,sp. 8,1.35,1350.00,leaf,Earnshaw et al. (1987),Ceratostylis sp. 8,-32.32,C3
+Orchidaceae,Ceratostylis,sp. 9,2.25,2250.00,leaf,Earnshaw et al. (1987),Ceratostylis sp. 9,-27.05,C3
+Orchidaceae,Coelogyne,asperata,0.39,390.00,leaf,Earnshaw et al. (1987),Coelogyne asperata,-33.11,C3+CAM
+Orchidaceae,Coelogyne,fragrans,0.50,500.00,leaf,Earnshaw et al. (1987),Coelogyne fragrans,-29.31,C3+CAM
+Orchidaceae,Cryptostylis,arachnites,0.41,410.00,leaf,Earnshaw et al. (1987),Cryptostylis arachnites,-34.03,C3
+Orchidaceae,Dendrobium,aurantiiroseum,0.39,390.00,leaf,Earnshaw et al. (1987),Dendrobium aurantiiroseum,-34.66,
+Orchidaceae,Dendrobium,aurantiiroseum,0.44,440.00,leaf,Earnshaw et al. (1987),Dendrobium aurantiiroseum,-30.61,
+Orchidaceae,Dendrobium,aurantiiroseum,0.55,550.00,leaf,Earnshaw et al. (1987),Dendrobium aurantiiroseum,-26.80,
+Orchidaceae,Dendrobium,bracteosum,0.54,540.00,leaf,Earnshaw et al. (1987),Dendrobium bracteosum,-27.29,
+Orchidaceae,Dendrobium,brevicaule,0.75,750.00,leaf,Earnshaw et al. (1987),Dendrobium brevicaule,-31.86,
+Orchidaceae,Dendrobium,brevicaule,0.70,700.00,leaf,Earnshaw et al. (1987),Dendrobium brevicaule,-30.52,
+Orchidaceae,Dendrobium,capituliflorum,2.20,2200.00,leaf,Earnshaw et al. (1987),Dendrobium capituliflorum,-20.67,C3+CAM
+Orchidaceae,Dendrobium,dekockii,0.55,550.00,leaf,Earnshaw et al. (1987),Dendrobium dekockii,-28.98,
+Orchidaceae,Dendrobium,gouldii,2.33,2330.00,leaf,Earnshaw et al. (1987),Dendrobium gouldii,-14.37,CAM
+Orchidaceae,Dendrobium,habbemense,0.32,320.00,leaf,Earnshaw et al. (1987),Dendrobium habbemense,-30.58,
+Orchidaceae,Dendrobium,helix,2.03,2030.00,leaf,Earnshaw et al. (1987),Dendrobium helix,-14.88,CAM
+Orchidaceae,Dendrobium,insigne,1.88,1880.00,leaf,Earnshaw et al. (1987),Dendrobium insigne,-15.28,CAM
+Orchidaceae,Dendrobium,johnsoniae,1.43,1430.00,leaf,Earnshaw et al. (1987),Dendrobium johnsoniae,-30.25,
+Orchidaceae,Dendrobium,lineale,1.41,1410.00,leaf,Earnshaw et al. (1987),Dendrobium lineale,-13.73,CAM
+Orchidaceae,Dendrobium,mirbelianum,1.84,1840.00,leaf,Earnshaw et al. (1987),Dendrobium mirbelianum,-15.10,CAM
+Orchidaceae,Dendrobium,pseudocalceolum,1.65,1650.00,leaf,Earnshaw et al. (1987),Dendrobium pseudocalceolum,-12.49,CAM
+Orchidaceae,Dendrobium,pseudocalceolum,1.06,1060.00,leaf,Earnshaw et al. (1987),Dendrobium pseudocalceolum,-13.00,CAM
+Orchidaceae,Dendrobium,rigidifolium,0.83,830.00,leaf,Earnshaw et al. (1987),Dendrobium rigidifolium,-28.93,
+Orchidaceae,Dendrobium,smilliae,0.51,510.00,leaf,Earnshaw et al. (1987),Dendrobium smilliae,-25.66,
+Orchidaceae,Dendrobium,smilliae,0.27,270.00,leaf,Earnshaw et al. (1987),Dendrobium smilliae,-32.03,
+Orchidaceae,Dendrobium,smilliae,0.34,340.00,leaf,Earnshaw et al. (1987),Dendrobium smilliae,-28.60,
+Orchidaceae,Dendrobium,sp. 1,0.23,230.00,leaf,Earnshaw et al. (1987),Dendrobium sp. 1,-28.08,
+Orchidaceae,Dendrobium,sp. 2,0.74,740.00,leaf,Earnshaw et al. (1987),Dendrobium sp. 2,-29.36,
+Orchidaceae,Dendrobium,sp. 3,0.17,170.00,leaf,Earnshaw et al. (1987),Dendrobium sp. 3,-31.49,
+Orchidaceae,Dendrobium,sp. 4,0.40,400.00,leaf,Earnshaw et al. (1987),Dendrobium sp. 4,-28.06,
+Orchidaceae,Dendrobium,sp. 5,0.76,760.00,leaf,Earnshaw et al. (1987),Dendrobium sp. 5,-29.85,
+Orchidaceae,Dendrobium,sp. sect. Grastidium,1.17,1170.00,leaf,Earnshaw et al. (1987),Dendrobium sp. sect. Grastidium,-28.47,
+Orchidaceae,Dendrobium,tumoriferum,1.04,1040.00,leaf,Earnshaw et al. (1987),Oxystophyllum tumoriferum,-24.44,
+Orchidaceae,Dendrobium,vexillarius,0.55,550.00,leaf,Earnshaw et al. (1987),Dendrobium vexillarius,-25.52,
+Orchidaceae,Dendrochilum,longifolium,0.39,390.00,leaf,Earnshaw et al. (1987),Coelogyne bracteosa,-28.05,
+Orchidaceae,Diplocaulobium,iboense,0.63,630.00,leaf,Earnshaw et al. (1987),Dendrobium iboense,-26.31,
+Orchidaceae,Diplocaulobium,sp. 1,0.33,330.00,leaf,Earnshaw et al. (1987),Dendrobium sp. “Diplocaulobium” 1,-28.05,
+Orchidaceae,Dipodium,pandanum,0.27,270.00,leaf,Earnshaw et al. (1987),Dipodium pandanum,-29.97,
+Orchidaceae,Epiblastus,sp. 1,0.75,750.00,leaf,Earnshaw et al. (1987),Epiblastus sp. 1,-28.40,
+Orchidaceae,Epiblastus,sp. 1,0.65,650.00,leaf,Earnshaw et al. (1987),Epiblastus sp. 1,-26.04,
+Orchidaceae,Epiblastus,sp. 2,0.71,710.00,leaf,Earnshaw et al. (1987),Epiblastus sp. 2,-27.57,
+Orchidaceae,Epiblastus,sp. 2,0.89,890.00,leaf,Earnshaw et al. (1987),Epiblastus sp. 2,-24.49,
+Orchidaceae,Epiblastus,sp. 2,0.71,710.00,leaf,Earnshaw et al. (1987),Epiblastus sp. 2,-31.02,
+Orchidaceae,Epiblastus,sp. 3,1.00,1000.00,leaf,Earnshaw et al. (1987),Epiblastus sp. 3,-26.58,
+Orchidaceae,Epicranthes,macrorhopalon,0.60,600.00,leaf,Earnshaw et al. (1987),Epicranthes macrorhopalon,-25.20,
+Orchidaceae,Eria,eriaeoides,0.48,480.00,leaf,Earnshaw et al. (1987),Bryobium eriaeoides,-31.17,C3+CAM
+Orchidaceae,Eria,eriaeoides,0.45,450.00,leaf,Earnshaw et al. (1987),Bryobium eriaeoides,-31.09,C3+CAM
+Orchidaceae,Eria,truncicola,0.27,270.00,leaf,Earnshaw et al. (1987),Pinalia truncicola,-30.22,
+Orchidaceae,Flickingeria,sp. 1,1.00,1000.00,leaf,Earnshaw et al. (1987),Dendrobium sp. “Flickingeria” 1,-28.97,C3+CAM
+Orchidaceae,Glomera,aurea,1.05,1050.00,leaf,Earnshaw et al. (1987),Glomera aurea,-24.20,
+Orchidaceae,Glomera,sp. 1,0.50,500.00,leaf,Earnshaw et al. (1987),Glomera sp. 1,-26.60,
+Orchidaceae,Glossorhyncha,sp. 1,1.55,1550.00,leaf,Earnshaw et al. (1987),Glomera sp. “Glossorhyncha” 1,-27.61,
+Orchidaceae,Glossorhyncha,sp. 2,1.20,1200.00,leaf,Earnshaw et al. (1987),Glomera sp. “Glossorhyncha” 2,-27.80,
+Orchidaceae,Glossorhyncha,sp. 3,1.35,1350.00,leaf,Earnshaw et al. (1987),Glomera sp. “Glossorhyncha” 3,-26.47,
+Orchidaceae,Glossorhyncha,sp. 4,0.95,950.00,leaf,Earnshaw et al. (1987),Glomera sp. “Glossorhyncha” 4,-26.90,
+Orchidaceae,Glossorhyncha,sp. 5,1.30,1300.00,leaf,Earnshaw et al. (1987),Glomera sp. “Glossorhyncha” 5,-28.55,
+Orchidaceae,Glossorhyncha,sp. 6,1.10,1100.00,leaf,Earnshaw et al. (1987),Glomera sp. “Glossorhyncha” 6,-28.95,
+Orchidaceae,Glossorhyncha,sp. 7,0.45,450.00,leaf,Earnshaw et al. (1987),Glomera sp. “Glossorhyncha” 7,-30.44,
+Orchidaceae,Grammatophyllum,papuanum,0.33,330.00,leaf,Earnshaw et al. (1987),Grammatophyllum pantherinum,-28.00,
+Orchidaceae,Liparis,alpina,0.70,700.00,leaf,Earnshaw et al. (1987),Liparis insectifera,-30.09,
+Orchidaceae,Liparis,condylobulbon,0.50,500.00,leaf,Earnshaw et al. (1987),Liparis condylobulbon,-30.30,
+Orchidaceae,Liparis,condylobulbon,0.65,650.00,leaf,Earnshaw et al. (1987),Liparis condylobulbon,-35.84,
+Orchidaceae,Liparis,condylobulbon,0.65,650.00,leaf,Earnshaw et al. (1987),Liparis condylobulbon,-34.55,
+Orchidaceae,Liparis,sp. 1,0.60,600.00,leaf,Earnshaw et al. (1987),Liparis sp. 1,-25.48,
+Orchidaceae,Luisia,teretifolia,2.90,2900.00,leaf,Earnshaw et al. (1987),Luisia teretifolia,-15.20,CAM
+Orchidaceae,Luisia,teretifolia,2.90,2900.00,leaf,Earnshaw et al. (1987),Luisia teretifolia,-15.21,CAM
+Orchidaceae,Mediocalcar,sp. 1,0.62,620.00,leaf,Earnshaw et al. (1987),Mediocalcar sp. 1,-32.37,
+Orchidaceae,Mediocalcar,sp. 2,1.85,1850.00,leaf,Earnshaw et al. (1987),Mediocalcar sp. 2,-26.49,
+Orchidaceae,Mediocalcar,sp. 3,1.45,1450.00,leaf,Earnshaw et al. (1987),Mediocalcar sp. 3,-27.92,
+Orchidaceae,Oberonia,sp. 1,0.80,800.00,leaf,Earnshaw et al. (1987),Oberonia sp. 1,-31.18,
+Orchidaceae,Oberonia,sp. 2,0.85,850.00,leaf,Earnshaw et al. (1987),Oberonia sp. 2,-28.62,
+Orchidaceae,Octarrhena,filiformis,0.45,450.00,leaf,Earnshaw et al. (1987),Octarrhena filiformis,-26.70,
+Orchidaceae,Octarrhena,filiformis,0.50,500.00,leaf,Earnshaw et al. (1987),Octarrhena filiformis,-27.59,
+Orchidaceae,Octarrhena,filiformis,0.65,650.00,leaf,Earnshaw et al. (1987),Octarrhena filiformis,-27.76,
+Orchidaceae,Pedilochilus,sp. 1,0.90,900.00,leaf,Earnshaw et al. (1987),Bulbophyllum sp. “Pedilochilus” 1,-29.48,
+Orchidaceae,Pedilochilus,sp. 2,0.60,600.00,leaf,Earnshaw et al. (1987),Bulbophyllum sp. “Pedilochilus” 2,-30.04,
+Orchidaceae,Pedilochilus,sp. 3,0.45,450.00,leaf,Earnshaw et al. (1987),Bulbophyllum sp. “Pedilochilus” 3,-32.20,
+Orchidaceae,Pedilochilus,sp. 4,0.60,600.00,leaf,Earnshaw et al. (1987),Bulbophyllum sp. “Pedilochilus” 4,-32.50,
+Orchidaceae,Phreatia,elongata,1.36,1360.00,leaf,Earnshaw et al. (1987),Phreatia elongata,-30.79,
+Orchidaceae,Phreatia,sp. 1,0.36,360.00,leaf,Earnshaw et al. (1987),Phreatia sp. 1,-28.31,
+Orchidaceae,Phreatia,sp. 2,0.90,900.00,leaf,Earnshaw et al. (1987),Phreatia sp. 2,-32.11,
+Orchidaceae,Phreatia,sp. 3,1.60,1600.00,leaf,Earnshaw et al. (1987),Phreatia sp. 3,-26.11,
+Orchidaceae,Phreatia,sp. 3,1.60,1600.00,leaf,Earnshaw et al. (1987),Phreatia sp. 3,-26.46,
+Orchidaceae,Phreatia,sp. 4,0.55,550.00,leaf,Earnshaw et al. (1987),Phreatia sp. 4,-32.96,
+Orchidaceae,Phreatia,sp. 5,1.50,1500.00,leaf,Earnshaw et al. (1987),Phreatia sp. 5,-30.78,
+Orchidaceae,Phreatia,sp. 6,0.75,750.00,leaf,Earnshaw et al. (1987),Phreatia sp. 6,-31.33,
+Orchidaceae,Phreatia,sp. 7,1.64,1640.00,leaf,Earnshaw et al. (1987),Phreatia sp. 7,-26.71,
+Orchidaceae,Pterostylis,acuminata,0.35,350.00,leaf,Earnshaw et al. (1987),Pterostylis acuminata,-31.52,
+Orchidaceae,Robiquetia,gracilistipes,1.68,1680.00,leaf,Earnshaw et al. (1987),Robiquetia gracilistipes,-11.65,CAM
+Orchidaceae,Saccolabium,sp. 1,0.33,330.00,leaf,Earnshaw et al. (1987),Saccolabium sp. 1,-15.24,CAM
+Orchidaceae,Thelymitra,papuana,1.10,1100.00,leaf,Earnshaw et al. (1987),Thelymitra papuana,-26.35,
+Orchidaceae,Vanda,hindsii,1.53,1530.00,leaf,Earnshaw et al. (1987),Vanda hindsii,-14.65,CAM
+Polypodiaceae,Belvisia,longissima,0.35,350.00,leaf,Earnshaw et al. (1987),Lepisorus validinervis,-28.90,C3
+Polypodiaceae,Belvisia,revoluta,1.60,1600.00,leaf,Earnshaw et al. (1987),Lepisorus spicatus,-26.90,C3
+Polypodiaceae,Belvisia,revoluta,1.25,1250.00,leaf,Earnshaw et al. (1987),Lepisorus spicatus,-27.45,C3
+Polypodiaceae,Belvisia,revoluta,1.55,1550.00,leaf,Earnshaw et al. (1987),Lepisorus spicatus,-28.02,C3
+Polypodiaceae,Belvisia,revoluta,1.10,1100.00,leaf,Earnshaw et al. (1987),Lepisorus spicatus,-27.67,C3
+Polypodiaceae,Loxogramme,subselliguea,0.47,470.00,leaf,Earnshaw et al. (1987),Loxogramme subselliguea,-29.55,C3
+Polypodiaceae,Loxogramme,subselliguea,0.25,250.00,leaf,Earnshaw et al. (1987),Loxogramme subselliguea,-29.37,C3
+Polypodiaceae,Microsorum,cromwellii,0.60,600.00,leaf,Earnshaw et al. (1987),Microsorum cromwellii,-21.28,C3+CAM
+Polypodiaceae,Prosaptia,davalliacea,0.30,300.00,leaf,Earnshaw et al. (1987),Grammitis davaliacea,-33.19,C3
+Polypodiaceae,Selliguea,werneri,0.72,720.00,leaf,Earnshaw et al. (1987),Selliguea plantaginea,-28.01,C3
+Polypodiaceae,Selliguea,werneri,0.75,750.00,leaf,Earnshaw et al. (1987),Selliguea plantaginea,-30.05,C3

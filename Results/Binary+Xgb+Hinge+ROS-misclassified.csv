@@ -1,0 +1,40 @@
+MajorLineage,Taxon,Pathway,binLabel,ypredBinHingeROS
+Agavoideae,Yucca constricta,C3,nonCAM,CAM
+Bromeliaceae,Guzmania sanguinea,C3,nonCAM,CAM
+Bromeliaceae,Lutheria glutinosa,C3,nonCAM,CAM
+Bromeliaceae,Puya mirabilis,C3,nonCAM,CAM
+Bromeliaceae,Vriesea gigantea,C3,nonCAM,CAM
+Bromeliaceae,Vriesea pleiosticha,C3,nonCAM,CAM
+Clusiaceae,Clusia multiflora,C3,nonCAM,CAM
+Clusiaceae,Tomovita lanceolata,C3,nonCAM,CAM
+Fabaceae,Gompholobium glabratum,C3,nonCAM,CAM
+Fabaceae,Ulex europaeus,C3,nonCAM,CAM
+Malvaceae,Lueheopsis rugosa,C3,nonCAM,CAM
+Molluginaceae,Pharnaceum microphyllum,C3,nonCAM,CAM
+Montiaceae,Claytonia megarhiza,C3,nonCAM,CAM
+Nolinoideae,Nolina bigelovii,C3,nonCAM,CAM
+Nyctaginaceae,Mirabilis nyctaginea,C3,nonCAM,CAM
+Orchidaceae,Acianthera johnsonii,C3,nonCAM,CAM
+Orchidaceae,Ceratostylis sp. 13,C3,nonCAM,CAM
+Orchidaceae,Ceratostylis sp. 4,C3,nonCAM,CAM
+Orchidaceae,Cyrtochiloides ochmatochila,C3,nonCAM,CAM
+Orchidaceae,Oncidium cheirophorum,C3,nonCAM,CAM
+Orchidaceae,Oncidium leucochilum,C3,nonCAM,CAM
+Orchidaceae,Pleurothallis sp.,C3,nonCAM,CAM
+Orchidaceae,Scaphyglottis behrii,C3,nonCAM,CAM
+Orchidaceae,Sobralia macrophylla,C3,nonCAM,CAM
+Orchidaceae,Stanhopea oculata,C3,nonCAM,CAM
+Orchidaceae,Zygopetalum intermedii,C3,nonCAM,CAM
+Primulaceae,Primula veris,C3,nonCAM,CAM
+Sapotaceae,Pouteria grandis,C3,nonCAM,CAM
+Solanaceae,Physalis pumila,C3,nonCAM,CAM
+Theaceae,Gordonia axillaris,C3,nonCAM,CAM
+Typhaceae,Typha latifolia,C3,nonCAM,CAM
+Cactaceae,Pereskia weberiana,C3+CAM,CAM,nonCAM
+Crassulaceae,Crassula helmsii,C3+CAM,CAM,nonCAM
+Gesneriaceae,Codonanthe uleana,C3+CAM,CAM,nonCAM
+Montiaceae,Parakeelya schistorhiza,C3+CAM,CAM,nonCAM
+Orchidaceae,Coryanthes hunteriana,C3+CAM,CAM,nonCAM
+Orchidaceae,Peristeria sp.,C3+CAM,CAM,nonCAM
+Orchidaceae,Saccolabium sp. 1,CAM,CAM,nonCAM
+Orchidaceae,Scaphyglottis imbricata,C3+CAM,CAM,nonCAM
