@@ -1,0 +1,254 @@
+acceptedTaxon,CAMpheno,Drop,tip.label,nonCAM,mCAM,pCAM,CAMevidence,Family
+Amaranthus hypochondriacus,nonCAM,FALSE,Amaranthus_hypochondriacus_tr,1.000,0.000,0.000,Known C4 species,Amaranthaceae
+Beta vulgaris ssp. vulgaris,nonCAM,FALSE,Beta_vulgaris_vulgaris_cds,1.000,0.000,0.000,Known C3 species,Amaranthaceae
+Anacampseros arachnoides,mCAM,FALSE,Anacampseros_arachnoides_101,0.000,0.667,0.333,Edwards Lab (unpublished) (d13C),Anacampserotaceae
+Anacampseros baeseckei,mCAM,FALSE,Anacampseros_baeseckei_91,0.000,1.000,0.000,Edwards Lab (unpublished) (d13C),Anacampserotaceae
+Anacampseros coahuilensis,mCAM,FALSE,Anacampseros_coahuilensis_68,0.000,1.000,0.000,Guralnick et al. (2008) (dH+),Anacampserotaceae
+Anacampseros filamentosa,mCAM,FALSE,Anacampseros_filamentosa,0.000,0.900,0.100,Guralnick and Jackson (2001) (dH+); Edwards Lab (unpublished) (d13C),Anacampserotaceae
+Anacampseros kurtzii,mCAM,FALSE,Anacampseros_kurtzii,0.000,0.900,0.100,CAM in all studied genus members,Anacampserotaceae
+Anacampseros lanceolata,mCAM,FALSE,Anacampseros_lanceolata_46,0.000,1.000,0.000,Guralnick and Jackson (2001) (dH+); Edwards Lab (unpublished) (d13C),Anacampserotaceae
+Anacampseros papyracea ssp. papyracea,mCAM,FALSE,Anacampseros_papyracea_papyracea_100,0.000,0.900,0.100,Edwards Lab (unpublished) (d13C),Anacampserotaceae
+Grahamia bracteata,mCAM,FALSE,Grahamia_bracteata_62,0.000,1.000,0.000,Guralnick et al. (2008) (dH+),Anacampserotaceae
+Talinopsis frutescens,mCAM,FALSE,Talinopsis_frutescens,0.100,0.900,0.000,CAM in all studied family members,Anacampserotaceae
+Anredera baselloides,mCAM,FALSE,Anredera_baselloides_38,0.000,1.000,0.000,"Holtum et al. (2018) (gasX, dH+)",Basellaceae
+Anredera cordifolia,mCAM,FALSE,Anredera_cordifolia,0.100,0.900,0.000,mCAM in all studied family members,Basellaceae
+Anredera diffusa,mCAM,FALSE,Anredera_diffusa_211,0.100,0.900,0.000,mCAM in all studied family members,Basellaceae
+Basella alba,mCAM,FALSE,Basella_alba,0.000,1.000,0.000,Sikolia et al. (2008) (d13C); Winter and Smith (2022) (dH+),Basellaceae
+Basella alba,mCAM,TRUE,Basella_alba_61,0.000,1.000,0.000,Sikolia et al. (2008) (d13C); Winter and Smith (2022) (dH+),Basellaceae
+Ullucus tuberosus,mCAM,FALSE,Ullucus_tuberosus_74,0.250,0.750,0.000,mCAM in all studied family members,Basellaceae
+Acanthocereus cuixmalensis,pCAM,FALSE,Peniocereus_cuixmalensis,0.000,0.000,1.000,"Mooney et al. (1989, as Peniocereus cuixmalensis) (d13C)",Cactaceae
+Airampoa corrugata,pCAM,FALSE,Tunilla_corrugata,0.000,0.010,0.990,Majority of tribe Opuntieae are pCAM and minority are mCAM,Cactaceae
+Ariocarpus retusus,pCAM,FALSE,Ariocarpus_retusus,0.000,0.010,0.990,pCAM in all studied members of tribe Cacteae,Cactaceae
+Astrophytum asterias,pCAM,FALSE,Astrophytum_asterias,0.000,0.010,0.990,pCAM in all studied members of tribe Cacteae,Cactaceae
+Astrophytum myriostigma,pCAM,FALSE,Astrophytum_myriostigma,0.000,0.010,0.990,pCAM in all studied members of tribe Cacteae,Cactaceae
+Blossfeldia sp.,pCAM,FALSE,Blossfeldia_204,0.000,0.025,0.975,pCAM in all studied members of subfamily Cactoideae,Cactaceae
+Copiapoa desertorum,pCAM,FALSE,Copiapoa_desertorum,0.000,0.010,0.990,pCAM in all studied genus members,Cactaceae
+Coryphantha maiztablasensis,pCAM,FALSE,Coryphantha_maiztablasensis,0.000,0.010,0.990,pCAM in all studied members of tribe Cacteae,Cactaceae
+Echinocereus pectinatus,pCAM,FALSE,Echinocereus_pectinatus,0.000,0.010,0.990,pCAM in all studied genus members,Cactaceae
+Echinocereus pectinatus,pCAM,TRUE,Echinocereus_pectinatus_tr,0.000,0.010,0.990,pCAM in all studied genus members,Cactaceae
+Echinopsis aurea,pCAM,FALSE,Echinopsis_aurea,0.000,0.010,0.990,pCAM in all studied genus members,Cactaceae
+Eriosyce wagenknechtii,pCAM,FALSE,Eriosyce_wagenknechtii,0.000,0.010,0.990,pCAM in all studied genus members,Cactaceae
+Ferocactus latispinus,pCAM,FALSE,Ferocactus_latispinus,0.000,0.010,0.990,pCAM in all studied genus members,Cactaceae
+Grusonia bradtiana,pCAM,FALSE,Grusonia_bradtiana,0.000,0.010,0.990,pCAM in all studied genus members,Cactaceae
+Gymnocalycium mihanovichii,pCAM,FALSE,Gymnocalycium_mihanovichii,0.000,0.010,0.990,pCAM in all studied members of tribe Trichocereeae,Cactaceae
+Lophocereus gatesii,pCAM,FALSE,Pachycereus_gatesii,0.000,0.000,1.000,Hultine et al. (2016) (d13C),Cactaceae
+Lophophora williamsii,pCAM,FALSE,Lophophora_williamsii,0.000,0.010,0.990,pCAM in all studied members of tribe Cacteae,Cactaceae
+Maihuenia poeppigii,mCAM,FALSE,Maihuenia_poeppigii,0.000,1.000,0.000,"Nobel and Hartsock (1986) (gasX); Martin and Wallace (2000) (gasX, dH+) ",Cactaceae
+Maihueniopsis conoidea,pCAM,FALSE,Maihueniopsis_conoidea,0.000,0.010,0.990,pCAM in all studied genus members,Cactaceae
+Maihueniopsis glomerata,pCAM,FALSE,Maihueniopsis_glomerata_116,0.000,0.000,1.000,"Mooney et al. (1974, as Opuntia ovata Pfeiff.) (d13C)",Cactaceae
+Mammillaria plumosa,pCAM,FALSE,Mammillaria_plumosa_117,0.000,0.010,0.990,pCAM in all studied genus members,Cactaceae
+Matucana aurantiaca,pCAM,FALSE,Matucana_aurantiaca,0.000,0.010,0.990,pCAM in all studied members of tribe Trichocereeae,Cactaceae
+Opuntia arenaria,pCAM,FALSE,Opuntia_arenaria,0.000,0.010,0.990,pCAM in all studied genus members,Cactaceae
+Opuntia bravoana,pCAM,FALSE,Opuntia_bravoana,0.000,0.010,0.990,pCAM in all studied genus members,Cactaceae
+Opuntia cochenillifera,pCAM,FALSE,Opuntia_cochenillifera,0.000,0.010,0.990,pCAM in all studied genus members,Cactaceae
+Austrocylindropuntia subulata,pCAM,FALSE,Opuntia_subulata_208,0.000,0.010,0.990,pCAM in all studied genus members,Cactaceae
+Pachycereus eichlamii,pCAM,FALSE,Stenocereus_yunckeri,0.000,0.000,1.000,"Ricalde et al. (2010, as Stenocereus eichlamii) (d13C)",Cactaceae
+Pereskia aculeata,mCAM,FALSE,Pereskia_aculeata,0.000,1.000,0.000,"Rayder and Ting (1981) (gasX, dH+)",Cactaceae
+Pereskia bleo,mCAM,FALSE,Leuenbergeria_bleo,0.000,1.000,0.000,"Kondo et al. (2000, as Rhodocactus bleo (H.B.K. Knuth.) (malate)",Cactaceae
+Pereskia bleo,mCAM,TRUE,Pereskia_bleo_69,0.000,1.000,0.000,"Kondo et al. (2000, as Rhodocactus bleo (H.B.K. Knuth.) (malate)",Cactaceae
+Pereskia bleo,mCAM,TRUE,Pereskia_bleo_tr,0.000,1.000,0.000,"Kondo et al. (2000, as Rhodocactus bleo (H.B.K. Knuth.) (malate)",Cactaceae
+Pereskia grandifolia,mCAM,FALSE,Pereskia_grandifolia,0.000,1.000,0.000,"Rayder and Ting (1981) (gasX, dH+)",Cactaceae
+Pereskia grandifolia,mCAM,TRUE,Pereskia_grandifolia_59,0.000,1.000,0.000,"Rayder and Ting (1981) (gasX, dH+)",Cactaceae
+Pereskia grandifolia,mCAM,TRUE,Pereskia_grandifolia_tr,0.000,1.000,0.000,"Rayder and Ting (1981) (gasX, dH+)",Cactaceae
+Pereskia guamacho,mCAM,FALSE,Leuenbergeria_guamacho,0.000,1.000,0.000,"Edwards and Diaz (2006) (gasX, dH+)",Cactaceae
+Pereskia guamacho,mCAM,TRUE,Pereskia_guamacho_35,0.000,1.000,0.000,"Edwards and Diaz (2006) (gasX, dH+)",Cactaceae
+Pereskia horrida,mCAM,FALSE,Pereskia_horrida_64,0.000,1.000,0.000," Martin and Wallace (2000) (gasX, dH+) ",Cactaceae
+Pereskia lychnidiflora,mCAM,FALSE,Leuenbergeria_lychnidiflora,0.010,0.990,0.000,mCAM in all studied genus members,Cactaceae
+Pereskia lychnidiflora,mCAM,TRUE,Pereskia_lychnidiflora_78,0.010,0.990,0.000,mCAM in all studied genus members,Cactaceae
+Pereskia lychnidiflora,mCAM,TRUE,Pereskia_lychnidiflora_tr,0.010,0.990,0.000,mCAM in all studied genus members,Cactaceae
+Pereskia quisqueyana,mCAM,FALSE,Pereskia_quisqueyana_55,0.000,1.000,0.000,"Martin and Wallace (2000) (gasX, dH+) ",Cactaceae
+Pereskia sacharosa,mCAM,FALSE,Pereskia_sacharosa_67,0.000,1.000,0.000,"Martin and Wallace (2000) (gasX, dH+) ",Cactaceae
+Pereskiopsis porteri,mCAM,FALSE,Pereskiopsis_porteri_51,0.000,1.000,0.000,"Nobel and Hartsock (1986) (gasX); Martin and Wallace (2000) (gasX, dH+) ",Cactaceae
+Pterocactus tuberosus,pCAM,FALSE,Pterocactus_tuberosus,0.000,0.000,1.000,Llano and Ugan (2014) (d13C),Cactaceae
+Quiabentia zehntneri,mCAM,FALSE,Quiabentia_zehntneri_207,0.000,0.667,0.333,mCAM in all studied genus members,Cactaceae
+Quiabentia zehntneri,mCAM,TRUE,Quiabentia_zehntneri_85,0.000,0.667,0.333,mCAM in all studied genus members,Cactaceae
+Rhipsalis baccifera,pCAM,FALSE,Rhipsalis_baccifera,0.000,0.000,1.000,Zotz and Ziegler (1997) (d13C); Ocampo and Columbus (2010) (d13C),Cactaceae
+Rhipsalis teres,pCAM,FALSE,Rhipsalis_capilliformis_54,0.000,0.100,0.900,pCAM in all studied genus members,Cactaceae
+Salmonopuntia salmiana,pCAM,FALSE,Salmiopuntia_salmiana,0.000,0.010,0.990,Majority of tribe Opuntieae are pCAM and minority are mCAM,Cactaceae
+Stetsonia coryne,pCAM,FALSE,Stetsonia_coryne,0.000,0.000,1.000,Hultine et al. (2016) (d13C),Cactaceae
+Tacinga lilae,pCAM,FALSE,Tacinga_lilae,0.000,0.010,0.990,Majority of tribe Opuntieae are pCAM and minority are mCAM,Cactaceae
+Tephrocactus articulatus,pCAM,FALSE,Tephrocactus_articulatus,0.000,0.000,1.000,"Bender et al. (1971, as Opuntia strobiliformis Nutt.) (d13C) ",Cactaceae
+Tephrocactus bonnieae,pCAM,FALSE,Tephrocactus_bonnieae,0.000,0.010,0.990,pCAM in all studied genus members,Cactaceae
+Alluaudia dumosa,pCAM,FALSE,Alluaudia_dumosa,0.000,0.000,1.000,Winter (1979) (d13C),Didiereaceae
+Alluaudia dumosa,pCAM,TRUE,Alluaudia_dumosa_65,0.000,0.000,1.000,Winter (1979) (d13C),Didiereaceae
+Alluaudia humbertii,pCAM,FALSE,Alluaudia_humbertii,0.000,0.100,0.900,Winter (1979) (d13C); Winter and Smith (2022) (dH+),Didiereaceae
+Alluaudia procera,pCAM,FALSE,Alluaudia_procera,0.000,0.100,0.900,Winter (1979) (d13C),Didiereaceae
+Alluaudia procera,pCAM,TRUE,Alluaudia_procera_53,0.000,0.100,0.900,Winter (1979) (d13C),Didiereaceae
+Alluaudiopsis marnieriana,mCAM,FALSE,Alluaudiopsis_marnieriana,0.000,0.667,0.333,Kluge et. al (1995) (d13C),Didiereaceae
+Decarya madagascariensis,pCAM,FALSE,Decarya_madagascariensis,0.000,0.100,0.900,"Winter (1979, as Portulacaria fruticulosa) (d13C); Ocampo and Columbus (2010, as Portulacaria fruticulosa) (d13C)",Didiereaceae
+Didierea madagascariensis,mCAM,FALSE,Didierea_madagascariensis,0.000,1.000,0.000,Ocampo and Columbus (2010) (d13C); Hultine et al. (2016) (d13C),Didiereaceae
+Didierea trollii,mCAM,FALSE,Didierea_trollii,0.000,1.000,0.000,Winter (1979) (d13C); Ziegler (1996) (d13C); Ocampo and Columbus (2010) (d13C); Hultine et al. (2016) (d13C),Didiereaceae
+Portulacaria afra,mCAM,FALSE,Portulacaria_afra,0.000,1.000,0.000,"Ting and Hanscom (1977) (gasX, dH+); Guralnick and Jackson (2001) (dH+)",Didiereaceae
+Portulacaria afra,mCAM,TRUE,Portulacaria_afra_50,0.000,1.000,0.000,"Ting and Hanscom (1977) (gasX, dH+); Guralnick and Jackson (2001) (dH+)",Didiereaceae
+Portulacaria fruticulosa,mCAM,FALSE,Ceraria_fruticulosa_72,0.000,1.000,0.000,"Veste et al. (2001, as Ceraria fruticulosa) (gasX, malic acid)",Didiereaceae
+Portulacaria pygmaea,mCAM,FALSE,Portulacaria_pygmaea,0.000,1.000,0.000,Guralnick and Jackson (2001) (dH+),Didiereaceae
+Halophytum ameghinoi,mCAM,FALSE,Halophytum_ameghinoi_76,0.000,1.000,0.000,Gilman et al. (accepted) (dC13),Halophytaceae
+Limeum aethiopicum,nonCAM,FALSE,Limeum_aethiopicum,1.000,0.000,0.000,CAM not known in family,Limeaceae
+Glinus lotoides,nonCAM,FALSE,Glinus_dahomensis,1.000,0.000,0.000,CAM not known in family,Molluginaceae
+Hypertelis cerviana,nonCAM,FALSE,Hypertelis_cerviana_367,1.000,0.000,0.000,CAM not known in family,Molluginaceae
+Hypertelis cerviana,nonCAM,TRUE,Mollugo_cerviana,1.000,0.000,0.000,CAM not known in family,Molluginaceae
+Hypertelis spergulacea,nonCAM,FALSE,Hypertelis_spergulacea_404,1.000,0.000,0.000,CAM not known in family,Molluginaceae
+Hypertelis walteri,nonCAM,FALSE,Hypertelis_walteri_403,1.000,0.000,0.000,CAM not known in family,Molluginaceae
+Mollugo verticillata,nonCAM,FALSE,Mollugo_verticillata,1.000,0.000,0.000,CAM not known in family,Molluginaceae
+Mollugo verticillata,nonCAM,TRUE,Mollugo_verticillata_56,1.000,0.000,0.000,CAM not known in family,Molluginaceae
+Paramollugo nudicaulis,nonCAM,FALSE,Mollugo_nudicaulis,1.000,0.000,0.000,CAM not known in family,Molluginaceae
+Pharnaceum exiguum,nonCAM,FALSE,Pharnaceum_exiguum,1.000,0.000,0.000,CAM not known in family,Molluginaceae
+Suessenguthiella scleranthoides,nonCAM,FALSE,Suessenguthiella_caespitosa,1.000,0.000,0.000,CAM not known in family,Molluginaceae
+Trigastrotheca molluginea,nonCAM,FALSE,Trigastrotheca_molluginea_137,1.000,0.000,0.000,CAM not known in family,Molluginaceae
+Trigastrotheca pentaphylla,nonCAM,FALSE,Mollugo_pentaphylla,1.000,0.000,0.000,CAM not known in family,Molluginaceae
+Trigastrotheca stricta,nonCAM,FALSE,Trigastrotheca_stricta_148,1.000,0.000,0.000,CAM not known in family,Molluginaceae
+Calandrinia colchaguensis,mCAM,FALSE,Calandrinia_colchagensis_146,0.100,0.900,0.000,Majority of Montiaceae are mCAM and minority are nonCAM,Montiaceae
+Calandrinia colchaguensis,mCAM,TRUE,Calandrinia_colchaguensis_379,0.100,0.900,0.000,Majority of Montiaceae are mCAM and minority are nonCAM,Montiaceae
+Calandrinia compressa,mCAM,FALSE,Calandrinia_compressa_144,0.100,0.900,0.000,Majority of Montiaceae are mCAM and minority are nonCAM,Montiaceae
+Calandrinia grandiflora,mCAM,FALSE,Calandrinia_grandiflora_or_procumbens,0.100,0.900,0.000,Majority of Montiaceae are mCAM and minority are nonCAM,Montiaceae
+Calandrinia skottsbergi,mCAM,FALSE,Calandrinia_skottsbergi_222,0.100,0.900,0.000,Majority of Montiaceae are mCAM and minority are nonCAM,Montiaceae
+Calyptridium monospermum,mCAM,FALSE,Calyptridium_monospermum_108,0.100,0.900,0.000,mCAM in all studied genus members,Montiaceae
+Calyptridium parryi,mCAM,FALSE,Calyptridium_parryi_170,0.100,0.900,0.000,mCAM in all studied genus members,Montiaceae
+Calyptridium pygmaeum,mCAM,FALSE,Calyptridium_pygmaeum,0.100,0.900,0.000,mCAM in all studied genus members,Montiaceae
+Calyptridium roseum ssp. parryi,mCAM,FALSE,Calyptridium_roseum_parryi_175,0.100,0.900,0.000,mCAM in all studied genus members,Montiaceae
+Calyptridium umbellatum,mCAM,FALSE,Calyptridium_umbellatum,0.000,1.000,0.000,Guralnick and Jackson (2001) (dH+),Montiaceae
+Calyptridium umbellatum,mCAM,TRUE,Calyptridium_umbellatum_193,0.000,1.000,0.000,Guralnick and Jackson (2001) (dH+),Montiaceae
+Cistanthe grandiflora,mCAM,FALSE,Cistanthe_grandiflora,0.000,1.000,0.000,Winter (2019) (not specified),Montiaceae
+Cistanthe lingulata,mCAM,FALSE,Cistanthe_lingulata_364,0.100,0.900,0.000,mCAM in all studied genus members,Montiaceae
+Cistanthe mucronulata,mCAM,FALSE,Cistanthe_mucronulata_371,0.100,0.900,0.000,mCAM in all studied genus members,Montiaceae
+Claytonia lanceolata,nonCAM,FALSE,Claytonia_lanceolata_106,0.600,0.400,0.000,CAM not known in genus but common in Montiaceae,Montiaceae
+Claytonia megarhiza,nonCAM,FALSE,Claytonia_megarhiza_195,0.600,0.400,0.000,CAM not known in genus but common in Montiaceae,Montiaceae
+Claytonia nevadensis,nonCAM,FALSE,Claytonia_nevadensis,0.600,0.400,0.000,CAM not known in genus but common in Montiaceae,Montiaceae
+Claytonia rubra,nonCAM,FALSE,Claytonia_rubra_382,0.600,0.400,0.000,CAM not known in genus but common in Montiaceae,Montiaceae
+Claytonia virginica,nonCAM,FALSE,Claytonia_virginica,0.600,0.400,0.000,CAM not known in genus but common in Montiaceae,Montiaceae
+Claytonia washingtoniana,nonCAM,FALSE,Claytonia_washingtoniana_26,0.600,0.400,0.000,CAM not known in genus but common in Montiaceae,Montiaceae
+Lewisia brachycalyx,mCAM,FALSE,Lewisia_brachycalyx_16,0.333,0.667,0.000,mCAM in single studied genus member,Montiaceae
+Lewisia columbiana ssp. columbiana,mCAM,FALSE,Lewisia_columbiana_columbiana_110,0.333,0.667,0.000,mCAM in single studied genus member,Montiaceae
+Lewisia columbiana ssp. wallowensis,mCAM,TRUE,Lewisia_columbiana_wallowensis_2,0.333,0.667,0.000,mCAM in single studied genus member,Montiaceae
+Lewisia congdonii,mCAM,FALSE,Lewisia_congdonii_17,0.333,0.667,0.000,mCAM in single studied genus member,Montiaceae
+Lewisia cotyledon ssp. cotyledon,mCAM,TRUE,Lewisia_cotyledon_cotyledon_113,0.000,1.000,0.000,Guralnick and Jackson (2001) (dH+),Montiaceae
+Lewisia glandulosa,mCAM,FALSE,Lewisia_glandulosa_22,0.333,0.667,0.000,mCAM in single studied genus member,Montiaceae
+Lewisia kelloggii,mCAM,FALSE,Lewisia_kelloggii_23,0.333,0.667,0.000,mCAM in single studied genus member,Montiaceae
+Lewisia leeana,mCAM,FALSE,Lewisia_leeana_24,0.333,0.667,0.000,mCAM in single studied genus member,Montiaceae
+Lewisia nevadensis,mCAM,FALSE,Lewisia_nevadensis,0.333,0.667,0.000,mCAM in single studied genus member,Montiaceae
+Lewisia nevadensis,mCAM,TRUE,Lewisia_nevadensis_19,0.333,0.667,0.000,mCAM in single studied genus member,Montiaceae
+Lewisia nevadensis,mCAM,TRUE,Lewisia_nevadensis_201,0.333,0.667,0.000,mCAM in single studied genus member,Montiaceae
+Lewisia pygmaea,mCAM,FALSE,Lewisia_pygmaea_8,0.333,0.667,0.000,mCAM in single studied genus member,Montiaceae
+Lewisia rediviva ssp. minor,mCAM,FALSE,Lewisia_rediviva_minor_10,0.333,0.667,0.000,mCAM in single studied genus member,Montiaceae
+Lewisia triphylla,mCAM,FALSE,Lewisia_triphylla_107,0.333,0.667,0.000,mCAM in single studied genus member,Montiaceae
+Lewisiopsis tweedyi,nonCAM,FALSE,Lewisiopsis_tweedyi_4,0.600,0.400,0.000,CAM not known in genus but common in Montiaceae,Montiaceae
+Montia chamissoi,nonCAM,FALSE,Montia_chamissoi,0.600,0.400,0.000,CAM not known in genus but common in Montiaceae,Montiaceae
+Montia parviflora,nonCAM,FALSE,Montia_parviflora_27,0.600,0.400,0.000,CAM not known in genus but common in Montiaceae,Montiaceae
+Montiopsis andicola,nonCAM,FALSE,Montiopsis_andicola_377,0.600,0.400,0.000,CAM not known in genus but common in Montiaceae,Montiaceae
+Montiopsis berteroana,nonCAM,FALSE,Montiopsis_berteroana_376,0.600,0.400,0.000,CAM not known in genus but common in Montiaceae,Montiaceae
+Montiopsis capitata,nonCAM,FALSE,Montiopsis_capitata_375,0.600,0.400,0.000,CAM not known in genus but common in Montiaceae,Montiaceae
+Montiopsis gayana,nonCAM,FALSE,Montiopsis_gayana_224,0.600,0.400,0.000,CAM not known in genus but common in Montiaceae,Montiaceae
+Montiopsis ramosissima,nonCAM,FALSE,Montiopsis_ramosissima_384,0.600,0.400,0.000,CAM not known in genus but common in Montiaceae,Montiaceae
+Montiopsis sericea,nonCAM,FALSE,Montiopsis_sericea_374,0.600,0.400,0.000,CAM not known in genus but common in Montiaceae,Montiaceae
+Montiopsis umbellata,nonCAM,FALSE,Montiopsis_umbellata_225,0.600,0.400,0.000,CAM not known in genus but common in Montiaceae,Montiaceae
+Parakeelya arenicola,nonCAM,FALSE,Calandrinia_arenicola_90,0.900,0.100,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya balonensis,mCAM,FALSE,Calandrinia_balonensis_57,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya brevipedata,mCAM,FALSE,Calandrinia_brevipedata_9,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya butcherensis,mCAM,FALSE,Calandrinia_butcherensis_58,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya calyptrata,mCAM,FALSE,Calandrinia_calyptrata_185,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya calyptrata,mCAM,TRUE,Calandrinia_calyptrata_188,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya corrigioloides,mCAM,FALSE,Calandrinia_corrigioloides_18,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya corrigioloides,mCAM,TRUE,Calandrinia_corrigioloides_98,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya corrigioloides,mCAM,TRUE,Calandrinia_corrigioloides_49C,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya creethae,mCAM,FALSE,Calandrinia_creethae_161,0.000,1.000,0.000,"Holtum et al. (2017a) (gasX, dH+); Hancock et al. (2019) (dH+)",Montiaceae
+Parakeelya creethae,mCAM,TRUE,Calandrinia_creethae_39,0.000,1.000,0.000,"Holtum et al. (2017a) (gasX, dH+); Hancock et al. (2019) (dH+)",Montiaceae
+Parakeelya crispisepala,mCAM,FALSE,Calandrinia_crispisepala_21,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya disperma,mCAM,FALSE,Calandrinia_disperma_194,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya disperma,mCAM,TRUE,Calandrinia_disperma_22,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya eremaea,mCAM,FALSE,Calandrinia_eremaea_perennial_7,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya eremaea,mCAM,TRUE,Calandrinia_eremaea_ss_33,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya eremaea,mCAM,TRUE,Calandrinia_eremea_nonpapillate_139,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya eremaea,mCAM,TRUE,Calandrinia_eremea_salt_flat_130,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya flava,mCAM,FALSE,Calandrinia_flava_79,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya gracilis,mCAM,FALSE,Calandrinia_gracilis_176,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya granulifera,nonCAM,FALSE,Calandrinia_granulifera_46,0.900,0.100,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya granulifera,nonCAM,TRUE,Calandrinia_granulifera_50D,0.900,0.100,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya hortiorum,mCAM,FALSE,Calandrinia_hortiorum_191,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya kalanniensis,mCAM,FALSE,Calandrinia_kalanniensis_168,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya kalanniensis,mCAM,TRUE,Calandrinia_kalanniensis_8,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya lehmannii,mCAM,FALSE,Calandrinia_lehmannii_35,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya linliflora,mCAM,FALSE,Calandrinia_linliflora_109,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya mirabilis,mCAM,FALSE,Calandrinia_mirabilis_85,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya operata,mCAM,FALSE,Calandrinia_operata_32,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya oraria,mCAM,FALSE,Calandrinia_oraria_37,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya painwaning,mCAM,FALSE,Calandrinia_painwaning_6,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya papillata,mCAM,FALSE,Calandrinia_papillata_30,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya pentavalvis,mCAM,FALSE,Calandrinia_pentavalvis_178,0.000,1.000,0.000,"Holtum et a. (2017a) (gasX, dH+)",Montiaceae
+Parakeelya pickeringii,mCAM,FALSE,Calandrinia_pickeringii_165,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya pleiopetala,mCAM,FALSE,Calandrinia_pleiopetala_74,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya polyandra,mCAM,FALSE,Calandrinia_polyandra_138,0.000,1.000,0.000,Winter et al. (1981) (dH+); Winter and pyg (2011) (gasX),Montiaceae
+Parakeelya polyandra,mCAM,TRUE,Calandrinia_polyandra_34C,0.000,1.000,0.000,Winter et al. (1981) (dH+); Winter and Holtum (2011) (gasX),Montiaceae
+Parakeelya polypetala,mCAM,FALSE,Calandrinia_polypetala_152,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya porifera,mCAM,FALSE,Calandrinia_porifera_36,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya primuliflora,mCAM,FALSE,Calandrinia_primuliflora_110,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya primuliflora,mCAM,TRUE,Calandrinia_primuliflora_160,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya ptychosperma,mCAM,FALSE,Calandrinia_ptychosperma_166,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya ptychosperma,mCAM,TRUE,Calandrinia_ptychosperma_5,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya pumila,mCAM,FALSE,Calandrinia_pumila_60,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya pumila,mCAM,TRUE,Calandrinia_pumila_75,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya quadrivalvis,mCAM,FALSE,Calandrinia_quadrivalvis_121,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya quadrivalvis,mCAM,TRUE,Calandrinia_quadrivalvis_26,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya remota,mCAM,FALSE,Calandrinia_remota_154,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya remota,mCAM,TRUE,Calandrinia_remota_ss_63,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya reticulata,mCAM,FALSE,Calandrinia_reticulata_149,0.000,1.000,0.000,"Holtum et a. (2017a) (gasX, dH+); Hancock et al. (2019) (dH+)",Montiaceae
+Parakeelya reticulata,mCAM,TRUE,Calandrinia_reticulata_53,0.000,1.000,0.000,"Holtum et a. (2017a) (gasX, dH+); Hancock et al. (2019) (dH+)",Montiaceae
+Parakeelya rubrisabulosa,mCAM,FALSE,Calandrinia_rubrisabulosa_34,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya schistorhiza,mCAM,FALSE,Calandrinia_schistorhiza_117,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya schistorhiza,mCAM,TRUE,Calandrinia_schistorhiza_31,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya sculpta,mCAM,FALSE,Calandrinia_sculpta_11,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya sp. “Black Angular Seeds”,mCAM,FALSE,Calandrinia_sp_Black_Angular_Seeds_24,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya sp. “Bungalbin”,mCAM,FALSE,Calandrinia_sp_Bungalbin_157,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya sp. “Goongarrie”,mCAM,FALSE,Calandrinia_sp_Goongarrie_37,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya sp. “Kenwick”,mCAM,FALSE,Calandrinia_sp_Kenwick_48,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya sp. “Meckering”,mCAM,FALSE,Calandrinia_sp_Meckering_31,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya sp. “Needilup B”,mCAM,FALSE,Calandrinia_sp_Needilup_31B,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya sp. “Pink Hills”,mCAM,FALSE,Calandrinia_sp_Pink_Hills_27,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya sp. “Prince Regent”,mCAM,FALSE,Calandrinia_sp_Prince_Regent_156,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya sp. “Truncate Capsules”,mCAM,FALSE,Calandrinia_sp_Truncate_Capsules_118,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya sp. “Warrider”,mCAM,FALSE,Calandrinia_sp_Warrider_129,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya spergularina,mCAM,FALSE,Calandrinia_spergularina_104,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya stagnensis,mCAM,FALSE,Calandrinia_stagnensis_101,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya strophiolata,mCAM,FALSE,Calandrinia_strophiolata_155,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya tholliformis,mCAM,FALSE,Calandrinia_tholliformis_29,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya translucens,mCAM,FALSE,Calandrinia_translucens_4,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya translucens,mCAM,TRUE,Calandrinia_translucens_99,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya tumida,nonCAM,FALSE,Calandrinia_tumida_93,0.900,0.100,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya umbelliformis,mCAM,FALSE,Calandrinia_umbelliformis_20,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Parakeelya uniflora,mCAM,FALSE,Calandrinia_uniflora_162,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya uniflora,mCAM,TRUE,Calandrinia_uniflora_92,0.000,1.000,0.000,Hancock et al. (2019) (dH+),Montiaceae
+Parakeelya vernicosa,mCAM,FALSE,Calandrinia_vernicosa_23,0.100,0.900,0.000,Majority of Parakeelya are mCAM and minority are nonCAM,Montiaceae
+Phemeranthus brevicaulis,mCAM,FALSE,Phemeranthus_brevicaulis_202,0.100,0.900,0.000,mCAM in all studied genus members,Montiaceae
+Phemeranthus brevicaulis,mCAM,TRUE,Phemeranthus_brevicaulis_5,0.100,0.900,0.000,mCAM in all studied genus members,Montiaceae
+Phemeranthus brevifolius,mCAM,FALSE,Phemeranthus_brevifolius_169,0.100,0.900,0.000,mCAM in all studied genus members,Montiaceae
+Phemeranthus calycinus,mCAM,FALSE,Phemeranthus_calycinus_173,0.000,1.000,0.000,"Martin and Zee (1991, as Talinum calycinum) (gasX, malic acid)",Montiaceae
+Phemeranthus confertiflorus,mCAM,FALSE,Phemeranthus_confertiflorus_2,0.100,0.900,0.000,mCAM in all studied genus members,Montiaceae
+Phemeranthus confertiflorus,mCAM,TRUE,Phemeranthus_confertiflorus_4,0.100,0.900,0.000,mCAM in all studied genus members,Montiaceae
+Phemeranthus humilis,mCAM,FALSE,Phemeranthus_humilis_3,0.100,0.900,0.000,mCAM in all studied genus members,Montiaceae
+Phemeranthus parviflorus,mCAM,FALSE,Phemeranthus_parviflorus,0.000,1.000,0.000,"Martin and Zee (1991, as Talinum parviflorum) (gasX, malic acid)",Montiaceae
+Phemeranthus parvulus,mCAM,FALSE,Phemeranthus_parvulus_24,0.100,0.900,0.000,mCAM in all studied genus members,Montiaceae
+Phemeranthus teretifolius,mCAM,FALSE,Phemeranthus_teretifolius_400,0.000,1.000,0.000,"Martin et al. (1982, as Talinum teretifolium) (dH+)",Montiaceae
+Portulaca amilis,mCAM,FALSE,Portulaca_amilis,0.000,1.000,0.000,Gilman et al. (2022) (dH+),Portulacaceae
+Portulaca amilis,mCAM,TRUE,Portulaca_amilis_383,0.000,1.000,0.000,Gilman et al. (2022) (dH+),Portulacaceae
+Portulaca cf. digyna,mCAM,FALSE,Portulaca_cf_digyna_184,0.000,1.000,0.000,"Holtum et al. (2017b) (gasX, dH+)",Portulacaceae
+Portulaca cf. filifolia,mCAM,FALSE,Portulaca_cf_filifolia_187,0.010,0.990,0.000,mCAM in all studied genus members,Portulacaceae
+Portulaca cf. perennis,mCAM,FALSE,Portulaca_cf_perennis_209,0.010,0.990,0.000,mCAM in all studied genus members,Portulacaceae
+Portulaca cf. perennis,mCAM,TRUE,Portulaca_cf_perennis_210,0.010,0.990,0.000,mCAM in all studied genus members,Portulacaceae
+Portulaca cf. perennis,mCAM,TRUE,Portulaca_cf_perennis_213,0.010,0.990,0.000,mCAM in all studied genus members,Portulacaceae
+Portulaca cryptopetala,mCAM,FALSE,Portulaca_cryptopetala,0.000,1.000,0.000,"Winter et al. (2019) (gasX, dH+)",Portulacaceae
+Portulaca cryptopetala,mCAM,TRUE,Portulaca_cryptopetala_49,0.000,1.000,0.000,"Winter et al. (2019) (gasX, dH+)",Portulacaceae
+Portulaca filsonii,mCAM,FALSE,Portulaca_filsonii_186,0.010,0.990,0.000,mCAM in all studied genus members,Portulacaceae
+Portulaca grandiflora,mCAM,FALSE,Portulaca_grandiflora,0.000,1.000,0.000,"Guralnick and Jackson (2001) (dH+); Guralnick et al. (2002) (gasX, dH+)",Portulacaceae
+Portulaca molokiniensis,mCAM,FALSE,Portulaca_molokiniensis,0.000,1.000,0.000,"Winter et al. (2019) (gasX, dH+)",Portulacaceae
+Portulaca oleracea,mCAM,FALSE,Portulaca_oleracea,0.000,1.000,0.000,"Koch and Kennedy (1980) (gasX, dH+)",Portulacaceae
+Portulaca oleracea,mCAM,TRUE,Portulaca_oleracea_tr,0.000,1.000,0.000,"Koch and Kennedy (1980) (gasX, dH+)",Portulacaceae
+Portulaca pilosa,mCAM,FALSE,Portulaca_pilosa,0.000,1.000,0.000,"Winter and Holtum (2017) (gasX, dH+)",Portulacaceae
+Portulaca sp.,mCAM,FALSE,Portulaca_sp_221,0.010,0.990,0.000,mCAM in all studied genus members,Portulacaceae
+Portulaca suffrutescens,mCAM,FALSE,Portulaca_suffrutescens,0.010,0.990,0.000,mCAM in all studied genus members,Portulacaceae
+Portulaca umbraticola,mCAM,FALSE,Portulaca_umbraticola,0.000,1.000,0.000,Winter (2019) (gasX),Portulacaceae
+Stegnosperma halimifolium,nonCAM,FALSE,Stegnosperma_halimifolium,1.000,0.000,0.000,CAM not known in family,Stegnospermataceae
+Talinum arnotii,mCAM,FALSE,Talinum_arnotii_4,0.100,0.900,0.000,mCAM in all studied genus members,Talinaceae
+Talinum fruticosum,mCAM,TRUE,Talinum_triangulare_50,0.100,0.900,0.000,"Winter and Holtum (2014, as Talinum triangulare) (gasX)",Talinaceae
+Talinum fruticosum,mCAM,FALSE,Talinum_fruticosum,0.000,1.000,0.000,"Winter and Holtum (2014, as Talinum triangulare) (gasX)",Talinaceae
+Talinum pachypoda,mCAM,FALSE,Talinella_pachypoda_73,0.100,0.900,0.000,mCAM in all studied genus members,Talinaceae
+Talinum paniculatum,mCAM,FALSE,Talinum_paniculatum,0.000,1.000,0.000,"Guerere et al. (1996) (gasX, dH+); Guralnick and Jackson (2001) (dH+)",Talinaceae
+Talinum portulacifolium,mCAM,FALSE,Talinum_portulacifolium,0.100,0.900,0.000,mCAM in all studied genus members,Talinaceae
